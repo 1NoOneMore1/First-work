@@ -22,7 +22,7 @@
    <h1 align=center>Hello Guys!</h1>
 <hr color=gray size="5" noshade width=600>
 <!-- <h2><br> to hide this use ctrl+/ </h2> -->
-<h2>Мои социальныее сети:</h2>
+<h2>Мои социальные сети:</h2>
 <ul>
   <li><a href="https://t.me/No1One1More" target="_blank">Telegram</a></li>
   <li><a href="https://vk.com/1no_one_more1" target="_blank">Вконтакте</a></li>
